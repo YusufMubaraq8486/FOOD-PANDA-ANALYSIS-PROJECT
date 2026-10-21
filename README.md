@@ -59,4 +59,4 @@ Age group with the highest inactive rate: Seniors, at 51.43%.
 
 
 ## Dashboard Preview
-Dashboard screenshots will be added here.
+![Power BI Dashboard](./Revenue and Order Preview.png)
