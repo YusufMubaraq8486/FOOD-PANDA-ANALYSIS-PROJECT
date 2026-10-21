@@ -61,3 +61,8 @@ Age group with the highest inactive rate: Seniors, at 51.43%.
 ## Dashboard Preview
 ![Revenue and Order Analysis Dashboard](./revenue-order-analysis-preview.png)
 ![Customer Analysis Dashboard](./customer-analysis-preview.png)
+
+
+##Author 
+
+**YUSUF MUBARAQ OLANIYI PORTFOLIO PROJECT**
