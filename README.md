@@ -24,6 +24,35 @@ Based on the analysis of your dataset containing 6,000 customer records and 6,00
 
 1. **Sales and Revenue Performance**
 Total revenue: 14.34 million.
-Average Order Value (AOV): 2,390.65.
+Average Order Value (AOV): 2,380.65.
 Top-performing city: Multan generated the highest revenue, approximately 3.05 million.
-Peak sales month: March 2025 recorded the highest monthly revenue of 683,896.55.
+
+**Insight**: Multan is the strongest city by revenue. Foodpanda should investigate the factors behind these results to identify opportunities for growth.
+
+
+2. **Customer Purchasing Behavior**
+Top age group: Teenagers placed the most orders
+Gender: Male and female customers placed almost identical numbers of orders.
+Top restaurant by orders: Subway, with 1,260 orders.
+Top restaurant by revenue: Pizza Hut, with approximately 3.00 million.
+Most popular food category: Italian.
+Most-used payment method: Cash
+
+**Insight**: Teenagers represent the largest age group by order volume, while Italian food and pasta are the most popular category and dish, respectively. These findings could inform targeted promotions.
+
+
+3. **Customer Satisfaction**
+Average customer rating: 3.00 out of 5.
+Most common rating: Three stars, representing 20.72% of ratings.
+Approximately 39.48% of customers gave ratings of one or two stars.
+
+**Insight**: Customer satisfaction has room for improvement. Investigating low ratings and their relationship with delivery performance could help identify areas requiring attention.
+
+
+4. **Customer Retention and Churn**
+Active customers: 3,016 (50.27%).
+Inactive customers: 2,984 (49.73%).
+City with the highest inactive customer rate: Lahore, at 51.85%.
+Age group with the highest inactive rate: Seniors, at 51.43%.
+
+**Insight**: Nearly half of the customers are classified as inactive. Lahore and the senior customer segment have comparatively higher inactive rates and may warrant further investigation.
