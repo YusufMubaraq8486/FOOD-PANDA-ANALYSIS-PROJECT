@@ -56,3 +56,6 @@ City with the highest inactive customer rate: Lahore, at 51.85%.
 Age group with the highest inactive rate: Seniors, at 51.43%.
 
 **Insight**: Nearly half of the customers are classified as inactive. Lahore and the senior customer segment have comparatively higher inactive rates and may warrant further investigation.
+
+
+## Dashboard Preview
